@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libstim300_driver_lib.so -o ../devel/lib/libstim300_driver_lib.so CMakeFiles/stim300_driver_lib.dir/src/driver_stim300.cpp.o CMakeFiles/stim300_driver_lib.dir/src/datagram_parser.cpp.o CMakeFiles/stim300_driver_lib.dir/src/serial_unix.cpp.o 

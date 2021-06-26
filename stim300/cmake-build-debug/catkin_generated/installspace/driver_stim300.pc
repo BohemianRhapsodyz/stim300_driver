@@ -1,8 +1,0 @@
-prefix=/usr/local
-
-Name: driver_stim300
-Description: Description of driver_stim300
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: sensor_msgs
