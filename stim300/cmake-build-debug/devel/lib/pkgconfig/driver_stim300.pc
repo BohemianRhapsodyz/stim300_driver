@@ -1,0 +1,8 @@
+prefix=/home/hx/stim300/src/stim300/cmake-build-debug/devel
+
+Name: driver_stim300
+Description: Description of driver_stim300
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: sensor_msgs
